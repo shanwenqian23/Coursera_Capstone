@@ -43,7 +43,6 @@ The data we need:
 - Beautiful Soup
 - Folium
 
-
 ### ⌛Clustered Neighborhoods
 <img src="Readme Images/Clustered_neighborhood.png" style="width:800px;height:300px;">
 
